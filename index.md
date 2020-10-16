@@ -1,6 +1,8 @@
 <html>
-<header><title>Otsikko</title></header>
-<body>
-Moikka
-</body>
+
+    <body>
+      <header><title>Otsikko</title></header>
+      Moikka
+      <img src="peukku.png">
+    </body>
 </html>
