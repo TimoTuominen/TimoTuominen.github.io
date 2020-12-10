@@ -32,3 +32,13 @@ background-color: rgb(224, 216, 204);
 .kalliodiv{
   margin-bottom: 50px;
 }
+.siluetti{
+  box-shadow: 5px 10px #888888;
+}
+.vaihto{
+  transition: color .5s linear;
+  color: rgb(19, 19, 228);
+}
+.vaihto:hover{
+  color: rgb(241, 7, 7);
+}
